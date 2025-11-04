@@ -4,7 +4,7 @@
 From the OOBE Screen press Shift + F10
 
 ```
-curl -L christitus.com/bypass -o skip.cmd
+curl -O https://raw.githubusercontent.com/SimonC-77/acm-win-build/refs/heads/main/skip.cmd
 skip.cmd
 ```
 
