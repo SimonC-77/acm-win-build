@@ -1,4 +1,4 @@
-# Modified versaion of:
+# Modified version of:
 # Chris Titus Tech's Bypass NRO on STEROIDS!?!?!?
 
 From the OOBE Screen press Shift + F10
